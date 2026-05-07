@@ -1,8 +1,8 @@
 def convert_usd_to_eur(usd):
 
-    return usd * 0.95
+    return usd * 0.0
 
-def convert_usd_to_eur(eur):
+def convert_eur_to_usd(eur):
     return eur * 1.1
 
 
